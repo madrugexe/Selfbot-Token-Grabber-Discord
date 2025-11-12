@@ -1,5 +1,5 @@
-//-----SB BY FRAXX AND MADRUG-----\\
-//-----https://zyo.lol/fraxx------//
+//-----SB BY FRAXX AND MADRUG--------//
+//-----https://zyo.lol/fraxx---------//
 //https://www.tiktok.com/@madrug.dev//
 
 
@@ -498,4 +498,5 @@ module.exports = {
     rpx,
     applyDefaultRPC,
     config
+
 };

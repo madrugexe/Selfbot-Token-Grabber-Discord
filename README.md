@@ -37,7 +37,8 @@ Comes with our official bot that handles:
 - Automated announcements
 - Management panel
 
-**Command Prefix:** `!`
+**Selfbot Command Prefix:** `!`
+**Official Bot Command Prefix:** `/`
 
 ---
 
@@ -64,6 +65,17 @@ Comes with our official bot that handles:
 
 MADE BY MADRUG & FRAXX
 
+**FRAXX:**
+https://github.com/fraxx33,
+
+https://zyo.lol/fraxx,
+
+https://www.codingame.com/profile/0ea32d26ad9f39665cd2ad2d9ebfc91a8823196,
+
+https://discord.com/users/1432684172844994614
+
+------------------------------------------------
+
 **MADrug:**
 https://www.tiktok.com/@madrug.dev,
 
@@ -75,13 +87,5 @@ https://zyo.lol/yzkx,
 
 https://www.codingame.com/profile/7c1067c83d317de8c78dd3f6ac6976703299976
 
-------------------------------------------------
 
-**FRAXX:**
-https://github.com/fraxx33,
 
-https://zyo.lol/fraxx,
-
-https://www.codingame.com/profile/0ea32d26ad9f39665cd2ad2d9ebfc91a8823196,
-
-https://discord.com/users/1432684172844994614

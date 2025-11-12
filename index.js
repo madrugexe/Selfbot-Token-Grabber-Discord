@@ -3,6 +3,7 @@
 //https://www.tiktok.com/@madrug.dev//
 
 
+
 const { Client: SelfbotClient } = require('discord.js-selfbot-v13');
 const { Client: BotClient, GatewayIntentBits, Events, Collection, REST, Routes, ActionRowBuilder, ButtonBuilder, ButtonStyle, ModalBuilder, TextInputBuilder, TextInputStyle, EmbedBuilder } = require('discord.js');
 const fs = require('fs');
@@ -500,3 +501,4 @@ module.exports = {
     config
 
 };
+

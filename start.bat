@@ -1,4 +1,4 @@
 @echo off
 title Ghost $B
-node index.js
+npm install
 pause

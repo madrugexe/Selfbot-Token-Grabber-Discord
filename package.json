@@ -1,0 +1,38 @@
+{
+  "name": "ghost-selfbot",
+  "version": "1.0.0",
+  "description": "Ghost $B Selfbot - dev by MaDrug & Fraxx",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "selfbot",
+    "ghost",
+    "automation"
+  ],
+  "author": "MaDrug & Fraxx",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.10.0",
+    "@discordjs/voice": "^0.19.0",
+    "@snazzah/davey": "^0.1.7",
+    "axios": "^1.11.0",
+    "canvas": "^3.2.0",
+    "discord-banner": "^1.6.7",
+    "discord.js": "^14.22.1",
+    "discord.js-selfbot-v13": "^3.7.0",
+    "libsodium-wrappers": "^0.7.15",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

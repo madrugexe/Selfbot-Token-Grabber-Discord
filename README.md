@@ -65,16 +65,23 @@ Comes with our official bot that handles:
 MADE BY MADRUG & FRAXX
 
 **MADrug:**
-https://www.tiktok.com/@madrug.dev
-https://discord.com/users/558648865176289290
-https://github.com/madrugexe
-https://zyo.lol/yzkx
+https://www.tiktok.com/@madrug.dev,
+
+https://discord.com/users/558648865176289290,
+
+https://github.com/madrugexe,
+
+https://zyo.lol/yzkx,
+
 https://www.codingame.com/profile/7c1067c83d317de8c78dd3f6ac6976703299976
 
 ------------------------------------------------
 
 **FRAXX:**
-https://github.com/fraxx33
-https://zyo.lol/fraxx
-https://www.codingame.com/profile/0ea32d26ad9f39665cd2ad2d9ebfc91a8823196
+https://github.com/fraxx33,
+
+https://zyo.lol/fraxx,
+
+https://www.codingame.com/profile/0ea32d26ad9f39665cd2ad2d9ebfc91a8823196,
+
 https://discord.com/users/1432684172844994614

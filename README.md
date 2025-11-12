@@ -38,6 +38,7 @@ Comes with our official bot that handles:
 - Management panel
 
 **Selfbot Command Prefix:** `!`
+
 **Official Bot Command Prefix:** `/`
 
 ---

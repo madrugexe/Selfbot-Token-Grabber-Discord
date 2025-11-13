@@ -7,7 +7,7 @@ module.exports = {
         .setDescription('Display the Ghost $elf-Bot login panel'),
     async execute(interaction) {
         // Remplacez par les IDs autorisés
-        const allowedIDs = ['1398028386856603658, 558648865176289290'];
+        const allowedIDs = [''];
         
         if (!allowedIDs.includes(interaction.user.id)) {
             return interaction.reply({ content: '❌ You are not authorized to use this command.', ephemeral: true });
@@ -133,4 +133,5 @@ module.exports = {
             throw error; // Propager l'erreur pour la gestion dans index.js
         }
     }
+
 };

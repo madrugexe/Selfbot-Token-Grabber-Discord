@@ -1,7 +1,7 @@
 const { SlashCommandBuilder } = require('discord.js');
 
 // Allowed admin IDs
-const allowedIDs = ['1398028386856603658', '558648865176289290'];
+const allowedIDs = ['"];
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -102,4 +102,5 @@ module.exports = {
         // Send both embeds
         await interaction.reply({ embeds: [embed, embedFR] });
     }
+
 };

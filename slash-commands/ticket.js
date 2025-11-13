@@ -4,7 +4,7 @@ const { SlashCommandBuilder, ChannelType, PermissionsBitField, ActionRowBuilder,
 const ticketSystems = new Map();
 
 // Allowed user IDs for command
-const allowedIDs = ['1398028386856603658', '558648865176289290'];
+const allowedIDs = [''];
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -417,4 +417,5 @@ module.exports.getUserTickets = (userId) => {
         });
     });
     return userTickets;
+
 };

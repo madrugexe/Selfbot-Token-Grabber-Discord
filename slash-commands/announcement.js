@@ -1,6 +1,6 @@
 const { SlashCommandBuilder, EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
 
-const allowedIDs = ['1398028386856603658', '558648865176289290'];
+const allowedIDs = [''];
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -129,4 +129,5 @@ module.exports = {
             });
         }
     }
+
 };

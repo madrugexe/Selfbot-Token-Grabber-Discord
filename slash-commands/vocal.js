@@ -4,7 +4,7 @@ const { SlashCommandBuilder, ChannelType, PermissionsBitField, EmbedBuilder } = 
 const voiceSystems = new Map();
 
 // Allowed user IDs
-const allowedIDs = ['1398028386856603658', '558648865176289290'];
+const allowedIDs = [''];
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -200,4 +200,5 @@ module.exports.deleteVoiceSystem = (channelId) => {
         });
         voiceSystems.delete(channelId);
     }
+
 };
